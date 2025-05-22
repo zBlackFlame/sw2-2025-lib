@@ -42,3 +42,5 @@ final class User
         return $this->registeredAt;
     }
 }
+
+
